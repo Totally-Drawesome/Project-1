@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(33, 17, 73);
+}
+
+/* VERTICAL MENU TEMPLATE */
+
+/*.menu ul{
+    list-style-type: none;
+    background-color: #f1f1f1;
+    width: 100px;
+}
+
+.menu li a {
+    display: block;
+    width: 60px;
+    color: black;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background-color: #555;
+    color: white;
+} */
+
+/* HORIZONTAL MENU TEMPLATE
+
+/*.menu ul{
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+}
+
+.menu li a {
+    float:left;
+}
+
+.menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    background-color: darkgrey;
+} */
+
+h1{
+    text-align: center;
+    font-size: 450%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+    width: 1500px;
+}
+
+p{
+    display: block;
+    font-size: 200%;
+    margin-left: auto;
+    margin-right: auto;
+}
